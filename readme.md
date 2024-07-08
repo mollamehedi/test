@@ -16,11 +16,11 @@ Watch the full tutorial on YouTube: [How to Use Multiple Languages in Laravel](h
 
 ## Instructions
 
-1.Download freash laravel project
-2.create language folder and assign text inside resoures folder
-3.create route, controller and assign function
-4.create language select option and function
-5.Create middleware
+- 1.Download freash laravel project
+- 2.create language folder and assign text inside resoures folder
+- 3.create route, controller and assign function
+- 4.create language select option and function
+- 5.Create middleware
 
 ## Step-by-Step Instructions
 
