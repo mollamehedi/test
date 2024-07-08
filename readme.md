@@ -30,6 +30,7 @@ Watch the full tutorial on YouTube: [How to Use Multiple Languages in Laravel](h
 ```bash
 composer create-project --prefer-dist laravel/laravel multi-language-laravel
 cd multi-language-laravel
+```
 
 
 
