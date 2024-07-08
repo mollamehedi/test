@@ -1,12 +1,5 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=PTE6GHgfh1Q" target="_blank"><img src="https://i9.ytimg.com/vi/PTE6GHgfh1Q/sddefault.jpg?v=668bf9a6&sqp=CMD0r7QG&rs=AOn4CLC8spyTL1dUYKRjF9JSHfiamrAddg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
 ## How to Use Multiple Languages in Laravel
 Welcome to the repository for the tutorial video on how to use multiple languages in Laravel! This README provides a summary of the video content and additional resources.
 ## Video Link
