@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=PTE6GHgfh1Q" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://i9.ytimg.com/vi/PTE6GHgfh1Q/sddefault.jpg?v=668bf9a6&sqp=CMD0r7QG&rs=AOn4CLC8spyTL1dUYKRjF9JSHfiamrAddg)" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -132,9 +132,9 @@ class LangController extends Controller
 
 ## 5.Create middleware
 Create a middleware to handle language switching globally:
-``
+```
 php artisan make:middleware LangMiddleware
-``
+```
 Assign Condition
 ```
 <?php
